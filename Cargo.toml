@@ -1,0 +1,9 @@
+[package]
+name = "auth"
+version = "0.1.0"
+authors = ["jackrizza <jackrizza@gmail.com>"]
+
+[dependencies]
+rust-crypto = "0.2.36"
+rand = "0.5"
+mysql = "*"
