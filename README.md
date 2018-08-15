@@ -4,6 +4,13 @@ This is a small project I have been working on for collectivly 38 hours on the w
 
 It requires 2 `mysql` databases :
 
+#### CREATE DATABSE
+```sql
+CREATE DATABASE `rust`;
+USE `rust`;
+```
+
+
 #### LOGIN
 ```sql 
 CREATE TABLE IF NOT EXISTS `rust`.`login` (
